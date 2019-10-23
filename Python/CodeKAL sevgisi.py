@@ -2,6 +2,7 @@
 #Aşağıdaki komutlar CodeKAL'ı çok seviyorum ve CodeKAL'ın bir parçası olmaktan çok mutluyum! çıktılarını vermektedir.
 print("CodeKAL'ı çok seviyorum")
 print("CodeKAL'ın bir parçası olmaktan çok mutluyum!")
+print("İyi ki bu kulübe girmişim!")
 
 #GÖREV: Yukarıdaki komutların benzerin kullanarak İngilizce çıktılarını veriniz.
 
