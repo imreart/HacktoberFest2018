@@ -3,6 +3,7 @@
 print("CodeKAL'ı çok seviyorum")
 print("CodeKAL'ın bir parçası olmaktan çok mutluyum!")
 print("İyi ki bu kulübe girmişim!")
+print("CodeKAL'da çok şey öğrendim")
 
 #GÖREV: Yukarıdaki komutların benzerin kullanarak İngilizce çıktılarını veriniz.
 
