@@ -7,6 +7,8 @@ public class CodeKal {
 
 		System.out.println("CodeKAL'ı seviyorum!");
 		System.out.println("CodeKAL'ın bir parçası olduğum için çok mutluyum.");
+		System.out.println("I love CodeKAL!");
+		System.out.println("I am really happy to be a part of CodeKAL.")
 
 	}
 
